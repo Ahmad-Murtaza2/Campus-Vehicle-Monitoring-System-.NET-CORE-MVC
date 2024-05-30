@@ -11,14 +11,13 @@ The login page allows multiple users to sign in. Users can log in as one of the 
 - **Admin**
 - **Guard**
 
-![d1](https://github.com/Ahmad-Murtaza2/Campus-Vehicle-Monitoring-System-.NET-CORE-MVC-/assets/142945526/b955cd4d-428e-4988-906c-2be335a2e94f)
-
+![d1](https://github.com/Ahmad-Murtaza2/Campus-Vehicle-Monitoring-System-.NET-CORE-MVC/assets/142945526/6487f554-4a27-442a-bbb5-d109bb48fd5d)
 
 ### 2) SuperAdmin Dashboard
 The SuperAdmin has the highest level of control and can:
 - Manage Admins and Guards by registering them.
 
-![d2](https://github.com/Ahmad-Murtaza2/Campus-Vehicle-Monitoring-System-.NET-CORE-MVC-/assets/142945526/ba0c827e-67c5-4b56-adb8-8561c42ad5c8)
+![d2](https://github.com/Ahmad-Murtaza2/Campus-Vehicle-Monitoring-System-.NET-CORE-MVC/assets/142945526/84386c45-af65-481b-9210-930cc6b65560)
 
 ### 3) Admin Dashboard
 The Admin has the following capabilities:
@@ -27,11 +26,12 @@ The Admin has the following capabilities:
 - View in/out records of vehicles.
 - Generate reports for selected dates.
 
-![d3](https://github.com/Ahmad-Murtaza2/Campus-Vehicle-Monitoring-System-.NET-CORE-MVC-/assets/142945526/8091a1c2-a377-4d6c-b75b-0669d79be71c)
+![d3](https://github.com/Ahmad-Murtaza2/Campus-Vehicle-Monitoring-System-.NET-CORE-MVC/assets/142945526/92bb9162-1740-48b7-8f92-0fd51f7405b4)
 
 ### 4) Guard Dashboard
 Guards have restricted access and can:
 - Enter in/out records of vehicles.
 
-![d4](https://github.com/Ahmad-Murtaza2/Campus-Vehicle-Monitoring-System-.NET-CORE-MVC-/assets/142945526/26363fff-dddd-414c-9d2f-52a3d8b860f8)
+![d4](https://github.com/Ahmad-Murtaza2/Campus-Vehicle-Monitoring-System-.NET-CORE-MVC/assets/142945526/95f946ff-16b3-457c-be6b-d63ec7484ff1)
+
 
